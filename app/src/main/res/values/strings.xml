@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tOdO by Kaustubh</string>
+    <string name="Button">+</string>
+    <string name="title">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="task_title">Task title</string>
+    <string name="task_description">Task description</string>
+    <string name="do_you_want_to_get_notified">Do You want to get Notified</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_details">Task Details</string>
+    <string name="task_name">Task Name</string>
+    <string name="by_kaustubh">By Kaustubh</string>
+    <string name="user">user</string>
+    <string name="create_task">Create Task</string>
+    <string name="enter_username">Enter UserName</string>
+    <string name="save">Save</string>
+    <string name="theme">Dark Theme</string>
+</resources>
